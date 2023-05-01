@@ -1,0 +1,7 @@
+ffmpeg-python
+transformers
+ctranslate2
+faster_whisper
+scipy
+streamlink
+numpy
